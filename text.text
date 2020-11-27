@@ -1,0 +1,15 @@
+  <form class="ui form">
+    <div class="field">
+      <input type="text" name="first-name" placeholder="Nama Depan">
+    </div>
+    <div class="field">
+      <input type="text" name="last-name" placeholder="Nama Belakang">
+    </div>
+    <div class="field">
+      <input type="text" name="first-name" placeholder="No Telp/HP">
+    </div>
+    <div class="field">
+      <input type="text" name="last-name" placeholder="Alamat Email">
+    </div>
+    <button class="ui primary button" type="submit">Submit</button>
+  </form>
